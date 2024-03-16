@@ -1,0 +1,10 @@
+
+.Categorias {
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #333;
+    background-color: rgb(177,214, 238green, blue);
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #444;
+}
